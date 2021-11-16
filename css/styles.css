@@ -1,0 +1,91 @@
+* {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: #444444;
+  list-style: none;
+  margin: 0 auto;
+  padding: 0;
+}
+
+p {
+  margin: 0 20px;
+  padding: 3px;
+}
+
+.section-header-text h1 {
+  color: #4383ac;
+  margin-top: 20px;
+  margin-bottom: 8px;
+  margin-left: 20px;
+  font-size: 20px;
+}
+
+ul {
+  margin-left: 20px;
+}
+
+li {
+  padding: 5px;
+}
+
+.inn {
+  margin-left: 10px;
+}
+
+.text2 p {
+  padding-left: 0;
+}
+
+hr {
+  margin: 5px;
+}
+
+.line-and-icons-container {
+  display: flex;
+}
+
+.item {
+  flex-direction: row;
+  margin: 10px;
+}
+
+.aside {
+  margin-left: 130px;
+}
+i {
+  padding: 2px;
+}
+
+.fa-leaf {
+  color: #6bda9b;
+  margin-left: 10px;
+}
+
+.fa-star {
+  color: #ff0000;
+}
+
+.big-icon-and-text {
+  display: flex;
+  flex-direction: row;
+}
+
+.icon-box {
+  display: flex;
+  justify-content: center;
+  background-color: #575555;
+  width: 100px;
+  border-radius: 50%;
+  margin-left: 30px;
+  margin-top: 30px;
+}
+
+.fa-user-tie {
+  color: #fff;
+  margin-top: 8px;
+}
+
+.info-job {
+  margin-left: 30px;
+  margin-top: 20px;
+}
